@@ -1,0 +1,74 @@
+{
+  "Migraine": {
+      "description": "A neurological condition characterized by intense, debilitating headaches often accompanied by nausea, vomiting, and sensitivity to light and sound.",
+      "treatment": "Pain relievers, rest in a quiet dark room, preventive medications."
+  },
+  "Dengue": {
+      "description": "A mosquito-borne viral infection causing high fever, rash, and muscle and joint pain.",
+      "treatment": "Fluids, pain relievers (avoid aspirin), and rest. Severe cases need hospitalization."
+  },
+  "Diabetes": {
+      "description": "A metabolic disorder resulting in high blood sugar levels over a prolonged period.",
+      "treatment": "Dietary changes, regular exercise, insulin or oral medications."
+  },
+  "Chicken pox": {
+      "description": "A highly contagious viral infection causing an itchy skin rash with red spots and blisters.",
+      "treatment": "Calamine lotion, antihistamines, and antiviral drugs for severe cases."
+  },
+  "Common Cold": {
+      "description": "A viral respiratory infection with symptoms like sore throat, runny nose, and coughing.",
+      "treatment": "Rest, fluids, over-the-counter cold remedies."
+  },
+  "Fungal infection": {
+      "description": "Skin or internal infections caused by fungi, often leading to itching, redness, and rashes.",
+      "treatment": "Antifungal creams, powders, or oral medications."
+  },
+  "Pneumonia": {
+      "description": "A lung infection that inflames air sacs, potentially filling them with fluid.",
+      "treatment": "Antibiotics, rest, and fluids; severe cases may require hospitalization."
+  },
+  "Allergy": {
+      "description": "An immune system reaction to a foreign substance not typically harmful to the body.",
+      "treatment": "Antihistamines, avoiding triggers, allergy shots (immunotherapy)."
+  },
+  "Vertigo": {
+      "description": "A sensation of spinning dizziness, often related to inner ear problems.",
+      "treatment": "Vestibular rehabilitation, medications like meclizine or diazepam."
+  },
+  "Hypertension": {
+      "description": "High blood pressure, often without symptoms but can lead to heart problems if untreated.",
+      "treatment": "Lifestyle changes, exercise, low-sodium diet, medications."
+  },
+  "Jaundice": {
+      "description": "Yellowing of the skin and eyes due to high bilirubin levels, often caused by liver issues.",
+      "treatment": "Depends on cause \u2014 rest, hydration, medications for liver support."
+  },
+  "Tuberculosis": {
+      "description": "A serious infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis.",
+      "treatment": "Long-term antibiotics (typically 6 months)."
+  },
+  "Malaria": {
+      "description": "A disease caused by Plasmodium parasites, transmitted via mosquito bites.",
+      "treatment": "Antimalarial medications like chloroquine or artemisinin combination therapy."
+  },
+  "Hepatitis B": {
+      "description": "A viral infection that attacks the liver and can cause both acute and chronic disease.",
+      "treatment": "Antiviral medications, regular monitoring, liver care."
+  },
+  "Hepatitis C": {
+      "description": "A blood-borne viral infection that causes liver inflammation.",
+      "treatment": "Direct-acting antiviral (DAA) medications."
+  },
+  "Heart attack": {
+      "description": "Occurs when blood flow to a part of the heart is blocked.",
+      "treatment": "Emergency medical care, aspirin, clot busters, and surgery (angioplasty or bypass)."
+  },
+  "Drug Reaction": {
+      "description": "Adverse reaction to medication with symptoms like rashes, fever, or swelling.",
+      "treatment": "Stop the drug, antihistamines, corticosteroids."
+  },
+  "Acne": {
+      "description": "A skin condition that occurs when hair follicles become clogged with oil and dead skin cells.",
+      "treatment": "Topical creams, antibiotics, hormonal treatments."
+  }
+}

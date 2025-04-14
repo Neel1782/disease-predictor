@@ -1,0 +1,26 @@
+{
+    "Heart attack": [
+        "Do you feel chest tightness?",
+        "Do you have a history of high blood pressure?"
+    ],
+    "Dengue": [
+        "Have you experienced joint pain?",
+        "Are you exposed to mosquito-prone areas recently?"
+    ],
+    "Diabetes": [
+        "Do you frequently feel thirsty?",
+        "Do you have a family history of diabetes?"
+    ],
+    "Migraine": [
+        "Do you experience visual disturbances (auras)?",
+        "Does light worsen your headache?"
+    ],
+    "Common Cold": [
+        "Are you sneezing or coughing frequently?",
+        "Do you have a sore throat?"
+    ],
+    "Malaria": [
+        "Have you traveled recently to a tropical region?",
+        "Do you have chills along with fever?"
+    ]
+}

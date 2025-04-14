@@ -1,0 +1,8 @@
+streamlit
+streamlit-tags
+streamlit-lottie
+tensorflow
+pandas
+plotly
+scikit-learn
+requests

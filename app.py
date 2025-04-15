@@ -161,7 +161,7 @@ with tab2:
     - 🧠 Uses Keras ANN with ReLU activations
     - 🌐 Made with Streamlit
 
-    **Built by:** Ritik Mahyavanshi
+    **Built by:** Neel Chauhan
     """)
 
 # === Tab 3: Model Info ===
@@ -187,4 +187,4 @@ with tab3:
 
 # === Footer ===
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray;'>Made with ❤️ by Ritik Mahyavanshi | Powered by Streamlit, TensorFlow, and Lottie</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>Made with ❤️ by Neel Chauhan | Powered by Streamlit, TensorFlow, and Lottie</p>", unsafe_allow_html=True)
